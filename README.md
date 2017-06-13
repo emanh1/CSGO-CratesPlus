@@ -1,1 +1,3 @@
-This is a early version of the CSGO opener for CratesPlus 4.1+
+This is the CratesPlus opener of DeviantsMC server, forked from <a href="https://github.com/ConnorLinfoot/CSGO-CratesPlus">here</a>
+
+Server IP : mc.deviantsmc.com
